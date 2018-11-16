@@ -1,0 +1,12 @@
+ img[title="title-1"]
+        {
+            color: blue
+        }
+         img[title="title-2"]
+        {
+           border: 1px solid #000;
+        }
+        img[title="title-3"]
+        {
+            border: 1px solid #000;
+        }
